@@ -1,0 +1,27 @@
+{
+  "name": "Luz Alerta",
+  "short_name": "Luz Alerta",
+  "description": "Reportes ciudadanos de apagones por zona en Cuba.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070b14",
+  "theme_color": "#ff8a3d",
+  "categories": ["utilities", "productivity"],
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
